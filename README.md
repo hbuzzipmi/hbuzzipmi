@@ -5,10 +5,15 @@ Soy Hernán Buzzi, tester de aplicaciones y estudiante de desarrollo web Full St
 **Mi stack tecnológico**
 
 const hbuzzipmi = {
+
   ubicación: "Buenos Aires - Argentina",
+  
   lenguajes: [Python, Java, HavaScript, HTML, CSS],
+  
   herramientas: [GitHub, Jenkins, Jira, Confluence, Visual_Studio_Code, Azure_Data_Studio],
+  
   bases_de_datos: [Microsoft_SQL_Server, MySQL]
+  
 }
 
 **Sobre mi**
