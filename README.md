@@ -3,6 +3,7 @@
 Soy Hernán Buzzi, tester de aplicaciones y estudiante de desarrollo web Full Stack en la Universidad Nacional de Tres de Febrero!
 
 **Mi stack tecnológico**
+
 const hbuzzipmi = {
   ubicación: "Buenos Aires - Argentina",
   lenguajes: [Python, Java, HavaScript, HTML, CSS],
